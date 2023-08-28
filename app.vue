@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Cadastro de Clientes
   </div>
 </template>

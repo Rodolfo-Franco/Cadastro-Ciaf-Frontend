@@ -1,0 +1,28 @@
+{
+    "clientes": [
+      {
+          "id": 1,
+          "Nome": "Otávio",
+          "Endereco": "Rua Um",
+          "usuario": "Onorax"
+      },    
+      {
+          "id": 2,
+          "Nome": "Samuel",
+          "Endereco": "Rua lotus",
+          "usuario": "Amon"
+      },    
+      {
+          "id": 3,
+          "Nome": "Tamoni",
+          "Endereco": "Rua treze",
+          "usuario": "Mestre Jedi"
+      },    
+      {
+          "id": 4,
+          "Nome": "Julia",
+          "Endereco": "Rua quatorze",
+          "usuario": "Nimeria"
+      }    
+    ]
+}
